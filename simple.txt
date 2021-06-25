@@ -1,0 +1,23 @@
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+tokyo to kyoto
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+    !@#$%^&*()-+=,<.>/?;:'"\|`~
+
+neog.camp
+
+madhushree_kunder
+
++91 9812345678
++91 7506123456
+
+Mr. Sharma
+Mr Smith
+Mr. J
+Ms Devi
+Mrs. Brown
