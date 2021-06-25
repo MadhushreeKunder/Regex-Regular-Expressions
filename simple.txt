@@ -17,20 +17,41 @@ indian phone numbers:
 +91 9812345678
 91 7506123456
 8812344500
-6812344500
+2812344500
 
 foreign phone numbers:
 123-234-9809
 321.546.9930
+800.546.9930
+900.546.9930
+
 156*123_3344
                                   
+123458910111010101
 
-
-
-
+cat 
+mat 
+pat 
+bat
 
 Mr. Sharma
 Mr Smith
 Mr. J
 Ms Devi
 Mrs. Brown
+Ms sheetal
+
+
+NeoGCamp@gmail.com
+neog.camp@bootcamp.edu
+neog-roc8@my-work.net
+
+
+
+urls
+google.com
+neog.camp
+youtube.com
+nasa.gov
+
+[a-zA-Z0-9]
